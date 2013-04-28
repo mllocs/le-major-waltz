@@ -9,7 +9,7 @@ melody = \relative c' {
 }
 
 harmony_a = \chordmode {
-  bes:maj | c:min7 | d:min7 | ees:maj | ees:maj | ees:maj | des:maj | des:maj |
+  bes:maj7 | c:min7sus4 | d:min6 | ees:maj7 | ees:maj7 | ees:maj7 | des:maj7 | f:7 |
 }
 
 harmony_b = \chordmode {
